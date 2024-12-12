@@ -3,6 +3,9 @@
 ## Overview
 I participated in the **Bluechip Data & AI 2024 Summit Hackathon**, where the challenge was to develop accurate and robust machine learning models for predicting loan creditworthiness. The goal was to identify individuals most likely to repay loans, thereby minimizing financial risk for lending institutions. The challenge emphasized creating models that balance precision and recall to enable informed lending decisions in a dynamic environment.
 
+## Important Note
+Due to GitHub's file size limitations, the full project notebook cannot be uploaded to this repository. However, you can access the complete notebook on **[Google Drive](https://drive.google.com/file/d/1E_9rUCIANW0bjDglh6yCgeLkF-t8a3EY/view?usp=sharing)**. The submission file is included in this repository for your reference.
+
 ## Objective
 The main objective was to develop machine learning models capable of predicting whether a borrower would be approved for a loan based on their creditworthiness. The evaluation focused on:
 
@@ -33,8 +36,9 @@ The model I built was evaluated on the hackathon's system, achieving an **accura
 ## Conclusion
 By participating in this hackathon, I gained valuable experience in **financial analytics**, **predictive modeling**, and working with real-world datasets to make data-driven decisions in the financial services sector.
 
-Feel free to explore the notebook where I implemented the models and fine-tuned them for better performance. You can dive deeper into the approach, data processing, and model selection in the repository.
+Feel free to explore the notebook on **[Google Drive](insert-link-here)** for a deeper dive into the approach, data processing, and model selection. The submission file is also available in this repository.
 
 ## Contact
 For more information or collaboration, feel free to reach out via email: [samueltaiwo856@gmail.com].
+
 
